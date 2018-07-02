@@ -16,7 +16,7 @@ OpenCVによる映像処理
 ----
 このプログラムはOpenCVとnumpy、scipy.ndimage.filtersから関数convolveがインポートされた環境で実行できます。
 
-jupyter notebook上で実行する場合はこのプログラムをコピーし貼り付けてからCtrlキー+Enterキーなどで実行できます。
+jupyter notebook上で実行する場合は、camera.ipynbを開き、Ctrlキー+Enterキーで実行してください。
 
 使用方法
 ----
