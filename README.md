@@ -14,7 +14,7 @@ OpenCVによる映像処理
 
 実行環境及び実行方法
 ----
-このプログラムはOpenCV及びnumpyモジュールがインストールされた環境で実行できます。
+このプログラムはOpenCVとnumpy、scipy.ndimage.filtersから関数convolveがインポートされた環境で実行できます。
 
 jupyter notebook上で実行する場合はこのプログラムをコピーし貼り付けてからCtrlキー+Enterキーなどで実行できます。
 
