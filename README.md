@@ -16,6 +16,8 @@ OpenCVによる映像処理
 ----
 このプログラムはOpenCVとnumpy、scipy.ndimage.filtersから関数convolveがインポートされた環境で実行できます。
 
+またこのプログラムをテストした環境は、Pythonのバージョンが3.5.4、Anacondaのバージョンが4.0.0(64-bit)でした。
+
 jupyter notebook上で実行する場合は、camera.ipynbを開き、Ctrlキー+Enterキーで実行してください。
 
 使用方法
